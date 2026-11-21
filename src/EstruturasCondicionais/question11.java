@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class question11 {
     public static void main(String[] args){
 
-        System.out.println("Questão 11 - Trocar valores");
         Scanner scanner = new Scanner(System.in);
 
         int numeroA, numeroB, aux;
